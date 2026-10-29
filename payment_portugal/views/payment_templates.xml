@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <odoo>
+    <delete model="ir.ui.view" id="payment_portugal_transaction_status"/>
     <template id="multibanco_form">
         <input
             type="hidden"
